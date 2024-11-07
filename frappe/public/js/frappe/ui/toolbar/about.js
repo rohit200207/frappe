@@ -28,7 +28,7 @@ frappe.ui.misc.about = function () {
 					<p>
 						<b>
 							// <a href="/attribution" target="_blank" class="text-muted">
-							// 	${__("Dependencies & Licenses")}
+							 	${__("Dependencies & Licenses")}
 							</a>
 						</b>
 					</p>

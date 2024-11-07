@@ -14,22 +14,18 @@ frappe.ui.misc.about = function () {
 					<p><i class='fa fa-github fa-fw'></i>
 						${__("Source")}:
 						<a href=' https://github.com/Software-Mathematics' target='_blank'> https://github.com/Software-Mathematics</a></p>
-					// <p><i class='fa fa-graduation-cap fa-fw'></i>
-						Frappe School: <a href='https://frappe.school' target='_blank'>https://frappe.school</a></p>
+					
 					<p><i class='fa fa-linkedin fa-fw'></i>
 						Linkedin: <a href='https://www.linkedin.com/company/softwaremathematics' target='_blank'>https://www.linkedin.com/company/softwaremathematics</a></p>
 					<p><i class='fa fa-twitter fa-fw'></i>
 						Twitter: <a href='https://twitter.com/softwaremathem1' target='_blank'>https://twitter.com/softwaremathem1</a></p>
-					// <p><i class='fa fa-youtube fa-fw'></i>
-					 	YouTube: <a href='https://www.youtube.com/@frappetech' target='_blank'>https://www.youtube.com/@frappetech</a></p>
+					
 					<hr>
 					<h4>${__("Installed Apps")}</h4>
 					<div id='about-app-versions'>${__("Loading versions...")}</div>
 					<p>
 						<b>
-							// <a href="/attribution" target="_blank" class="text-muted">
-							 	${__("Dependencies & Licenses")}
-							</a>
+							
 						</b>
 					</p>
 					<hr>

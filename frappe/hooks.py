@@ -2,8 +2,10 @@ import os
 
 from . import __version__ as app_version
 
-app_name = "frappe"
-app_title = "Frappe Framework"
+# app_name = "frappe"
+# app_title = "Frappe Framework"
+app_name = "Software Mathematics" #replaced frappe framework with software mathematics
+app_title = "Software Mathematics"#replaced frappe framework with software mathematics
 app_publisher = "Frappe Technologies"
 app_description = "Full stack web framework with Python, Javascript, MariaDB, Redis, Node"
 app_license = "MIT"

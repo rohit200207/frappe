@@ -4,9 +4,9 @@ from . import __version__ as app_version
 
 # app_name = "frappe"
 # app_title = "Frappe Framework"
-app_name = "Software Mathematics" #replaced frappe framework with software mathematics
-app_title = "Software Mathematics"#replaced frappe framework with software mathematics
-app_publisher = "Frappe Technologies"
+app_name = "SMERPNext" #replaced frappe framework with software mathematics
+app_title = "SMERPNext"#replaced frappe framework with software mathematics
+app_publisher = "Software Mathematics Pvt. Ltd."
 app_description = "Full stack web framework with Python, Javascript, MariaDB, Redis, Node"
 app_license = "MIT"
 app_logo_url = "/assets/frappe/images/frappe-framework-logo.svg"
